@@ -1,0 +1,1 @@
+arn:aws:inspector:us-west-2:974224957526:target/0-iKJIqqx3/template/0-EPCoiONE
