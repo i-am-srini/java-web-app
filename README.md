@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # terraform-aws-inspector
 
 A terraform module to deploy [Amazon Inspector](https://docs.aws.amazon.com/inspector/latest/userguide/inspector_introduction.html)
@@ -86,3 +87,8 @@ Instead, contact the development team through [HQVulnerabilityManagement](mailto
 Be sure to include **all** pertinent information.
 
 The agency reserves the right to change this policy at any time.
+=======
+# java-web-app
+
+modify README
+>>>>>>> 46acd7711b5b473ffda3fdfa41e429af265e0ad1
