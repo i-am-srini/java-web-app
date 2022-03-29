@@ -67,10 +67,10 @@ output "arn_awscli" {
   value = aws_inspector_assessment_template.assessment.id
 }
 
-variable "access-key"{
+variable "access-key" {
   type = string
 }
 
-variable "secret-key"{   
+variable "secret-key" {   
   type = string
 }
