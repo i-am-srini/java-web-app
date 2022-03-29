@@ -39,10 +39,3 @@ variable "schedule_expression" {
   description = "AWS Schedule Expression: https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/ScheduledEvents.html"
   default     = "rate(1 minute)"
 }
-variable "access-key"{
-  type = string
-}
-
-variable "secret-key"{   
-  type = string
-}
