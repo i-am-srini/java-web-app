@@ -66,11 +66,3 @@ resource "aws_iam_role_policy" "inspector_event" {
 output "arn_awscli" {
   value = aws_inspector_assessment_template.assessment.id
 }
-
-variable "access-key" {
-  type = string
-}
-
-variable "secret-key" {   
-  type = string
-}
